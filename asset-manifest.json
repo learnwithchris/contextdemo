@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contextdemo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/contextdemo/static/js/main.3277bd78.chunk.js",
+    "main.js.map": "/contextdemo/static/js/main.3277bd78.chunk.js.map",
+    "runtime-main.js": "/contextdemo/static/js/runtime-main.2799f1de.js",
+    "runtime-main.js.map": "/contextdemo/static/js/runtime-main.2799f1de.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/contextdemo/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3db73030.chunk.js": "/contextdemo/static/js/2.3db73030.chunk.js",
+    "static/js/2.3db73030.chunk.js.map": "/contextdemo/static/js/2.3db73030.chunk.js.map",
+    "index.html": "/contextdemo/index.html",
+    "precache-manifest.2e6413a96350d805e881db6bbf13c4d2.js": "/contextdemo/precache-manifest.2e6413a96350d805e881db6bbf13c4d2.js",
+    "service-worker.js": "/contextdemo/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/contextdemo/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/contextdemo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3db73030.chunk.js.LICENSE.txt": "/contextdemo/static/js/2.3db73030.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2799f1de.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3db73030.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3277bd78.chunk.js"
+  ]
+}
